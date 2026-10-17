@@ -1,7 +1,7 @@
 # Salut, moi c'est Abdallah Aajli 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/aajli-Abdallah?label=Follow&style=social)](https://github.com/aajli-Abdallah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/VOTRE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aajli)
 
 Développeur passionné par la création d'applications légères, performantes et axées sur l'expérience utilisateur. J'aime concevoir des applications mobiles modernes en **Kotlin & Jetpack Compose**, des outils d'amélioration de productivité (extensions de navigateur) et des architectures backend robustes en **Java / Spring Boot**.
 
