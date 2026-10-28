@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/aajli"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/aajli-Abdallah"><img src="https://img.shields.io/github/followers/aajli-Abdallah?label=Followers&style=for-the-badge&color=24292e&logo=github" alt="GitHub Followers" /></a>
   <a href="mailto:ingenieur.aajli@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.aajli.com"><img src="https://img.shields.io/badge/Portfolio-aajli.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
